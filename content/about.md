@@ -10,9 +10,9 @@ I'm also very passionate about making contributions to open-source projects — 
 
 Below are my handles, if you need to reach out to me:
 
-- You can check out my projects on [**Github**](https://github.com/ixxiv).
+- You can check out my projects on [**Github**](https://github.com/rxxcc).
 
-- You can reach me on [**Twitter**](https://twitter.com/inuxxiv).
+- You can reach me on [**Twitter**](https://twitter.com/rixxcc).
 
 - You can reach me via [**Mail**](mailto:oshiogiemhe.inu@gmail.com).
 
