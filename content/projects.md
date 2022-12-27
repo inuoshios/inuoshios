@@ -4,11 +4,11 @@ title: 'Projects'
 
 A lot of my projects can be found on [Github](https://github.com/rxxcc)
 
-Here are some of my projects:
-
-- [**Keepinfo**](https://github.com/rxxcc/keepinfo) — _An advanced contacts manager APi built using Golang, Postgres, and JWT._
+Here are some of my notable projects:
 
 - [**KeepMoney**](https://github.com/rxxcc/keepmoney) — _An APi that helps you track how you spends your money. Typescript, Express JS, MongoDB, Zod, and JWT was used to build this project._
+
+- [**Paystack Golang SDK**](https://github.com/rxxcc/paystack-go-sdk) - _An unofficial Golang SDK for [Paystack](https://paystack.com)._
 
 - [**Price**](https://github.com/rxxcc/price-action) — _A CLI application that displays real time crypto, stocks, and NFTs prices._
 
